@@ -145,7 +145,7 @@ void intopost()
     printf("Hasil konversi infix ke prefix: %s\n", postfix);
 }
 
-// // Fungsi Postfix ke Infix
+// // Fungsi untuk mengubah Postfix ke Infix
 void posttoin()
 {
     printf("==================================================\n");
@@ -186,7 +186,7 @@ void posttoin()
 // //
 // void intopre();
 
-// // Fungsi Prefix ke Infix
+// // Fungsi untuk mengubah Prefix ke Infix
 void pretoin()
 {
     printf("==================================================\n");
@@ -226,7 +226,7 @@ void pretoin()
 }
 
 
-// // Fungsi Prefix ke Postfix
+// // Fungsi untuk mengubah Prefix ke Postfix
 void pretopost()
 {
     printf("==================================================\n");
