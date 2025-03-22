@@ -1,1 +1,0 @@
-# UTS-Praktikum-SDA
